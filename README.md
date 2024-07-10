@@ -1,16 +1,16 @@
-<h1 align="center"> Devil_Cat_v2 </h1>
+<h1 align="center"> Devil_Cat-V2 </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat_v2;WHATSAPP+BUG+BOT;CREATED+BY+NO+NAME;RELEASED+29.06.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2;WHATSAPP+BUG+BOT;CREATED+BY+NO+NAME+MD;RELEASED+29.06.24" alt="Typing SVG" /></a>
   </p>
 
-Devil Cat v2 BOT is a bug bot designed to disable the account of Scammers all over the world use reasonably
+Devil Cat V2 BOT is a bug bot designed to disable the account of Scammers all over the world use reasonably
 
-Lord No Name Rulez😶
+If you clone my repo or useas base bot, dont forget to give credits. Lord No Name Rulez😶
 
-1. Click on **[Fork](https://github.com/Anime-King01/Devil-Cat-V2/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[Fork](https://github.com/Anime-King01/Devil_Cat-V2.0/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
 
 **DEPLOYMENT PROCESS**
 ### DEPLOY ON REPLIT
