@@ -1,12 +1,12 @@
-<h1 align="center"> Devil_Cat-V2 </h1>
+<h1 align="center"> Devil_Cat-V2.0 </h1>
 <p align="center">  
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2;WHATSAPP+BUG+BOT;CREATED+BY+NO+NAME+MD;RELEASED+29.06.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+NO+NAME+MD;RELEASED+29.06.24" alt="Typing SVG" /></a>
   </p>
 
-Devil Cat V2 BOT is a bug bot designed to disable the account of Scammers all over the world use reasonably
+Devil Cat V2.0 BOT is a bug bot designed to disable the account of Scammers all over the world use reasonably
 
 If you clone my repo or useas base bot, dont forget to give credits. Lord No Name Rulez😶
 
@@ -16,7 +16,7 @@ If you clone my repo or useas base bot, dont forget to give credits. Lord No Nam
 ### DEPLOY ON REPLIT
 IF YOU DON'T HAVE A REPLIT ACCOUNT CREATE ONE AND DEPLOY 
     <br>
-    <a href='https://replit.com/github/Anime-King01/Devil_Cat_v2' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://replit.com/github/Anime-King01/Devil_Cat-V2.0' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 
 ### DEPLOYMENT ON TERMUX
@@ -55,7 +55,7 @@ git clone  (copy and paste your forked repo not mine to save your changes)
 
 7. After that type: 
 
-cd Devil_Cat_v2
+cd Devil_Cat-V2.0
 
 8. after that type:
 
@@ -85,12 +85,12 @@ Just type cd and the bot name
 Then type npm start
 It will come online
 
-`Please Devil Cat v2 BOT is just for fun, don't use it to harm innocent people`
+`Please Devil Cat V2.0 BOT is just for fun, don't use it to harm innocent people`
 
 
 ## Contributions
 
-Contributions to Devil Cat v2 Md are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
+Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request. <br>
 
    thanks to these people ;
 
