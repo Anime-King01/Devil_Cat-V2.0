@@ -3,10 +3,10 @@
   
 ***
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+NO+NAME+MD;RELEASED+29.06.24" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+LORD+NO+NAME+MD;RELEASED+29.06.24" alt="Typing SVG" /></a>
   </p>
 
-Devil Cat V2.0 BOT is a bug bot designed to disable the account of Scammers all over the world use reasonably
+Devil Cat V2.0 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to tye era of scammers. Use reasonably
 
 If you clone my repo or useas base bot, dont forget to give credits. Lord No Name Rulez😶
 
@@ -78,7 +78,7 @@ npm start
 ### REPORT ISSUES
 
 if you're having any issues message me on
-WhatsApp: (https://wa.me/2348133286181) 
+WhatsApp: (https://wa.me/message/2DAGP33CWIDHD1) 
 
 If the bot goes offline 
 Just type cd and the bot name 
