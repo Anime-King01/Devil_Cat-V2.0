@@ -11,9 +11,10 @@ Devil Cat V2.0 BOT is a bug bot designed to enhance the functionality and prefer
 If you clone my repo or useas base bot, dont forget to give credits. Lord No Name Rulez😶
 
 1. Click on **[Fork](https://github.com/Anime-King01/Devil_Cat-V2.0/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
+   
 **GET SESSION ID**
 ### GENERATE PAIR CODE FROM REPLIT
-Fork the repl to get oair code for whatsApp
+Fork the repl to get pair code for whatsApp
 https://replit.com/@haotak/DevilCat-1?v=1
 
 **DEPLOYMENT PROCESS**
