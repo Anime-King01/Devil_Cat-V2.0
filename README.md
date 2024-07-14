@@ -6,9 +6,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+LORD+NO+NAME+MD;RELEASED+11.07.24" alt="Typing SVG" /></a>
   </p>
 
-Devil Cat V2.0 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to tye era of scammers. Use reasonably
+Devil Cat V2.0 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
 
-If you clone my repo or useas base bot, dont forget to give credits. Lord No Name Rulez😶
+If you clone my repo or use as base bot, dont forget to give credits. Lord No Name Rulez😶
 
 1. Click on **[Fork](https://github.com/Anime-King01/Devil_Cat-V2.0/fork)** A must . Make sure to add a star 🌟 to encourage the developers.
    
@@ -78,7 +78,7 @@ npm start
 12. It will give you a pair code go and link it to your WhatsApp 
 13. After linking
 14. Bot Connected ⚡
-15. Enjoy🤗
+15. Enjoy🤖
 
 ### REPORT ISSUES
 
@@ -90,7 +90,7 @@ Just type cd and the bot name
 Then type npm start
 It will come online
 
-`Please Devil Cat V2.0 BOT is just for fun, don't use it to harm innocent people`
+`Please Devil Cat V2.0 BOT is for scammers only. Don't use it to harm innocent people`
 
 
 ## Contributions
@@ -101,9 +101,9 @@ Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new featur
 
    **Xeon** who made the base bot
 
-   **hans tech** For helping me test it
+   **Wolf** For helping me test it
    
-   **TOXXIC** for inspiration; <br>
+   **Toxxic** for inspiration; <br>
 
 
 ## License
