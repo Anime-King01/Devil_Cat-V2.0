@@ -18,7 +18,7 @@ global.location = "NIGERIA"
 
 global.ownernumber = '2348133286181'  //creator number
 global.ownername = 'Lord No Name' //owner name
-global.botname = 'Devil-Cat-v2 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
+global.botname = 'Devil_Cat-V2.0 ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
