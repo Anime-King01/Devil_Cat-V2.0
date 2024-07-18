@@ -101,7 +101,7 @@ Contributions to Devil Cat V2.0 MD are welcome! If you have ideas for new featur
 
    **Xeon** who made the base bot
 
-   **Wolf** For helping me test it
+   **Re-Jeong** For helping me test it
    
    **Toxxic** for inspiration; <br>
 
