@@ -80,6 +80,74 @@ npm start
 14. Bot Connected ⚡
 15. Enjoy🤖
 
+## Heroku Buildpack
+```bash
+heroku/nodejs
+```
+```
+https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
+```
+```
+https://github.com/clhuang/heroku-buildpack-webp-binaries.git
+```
+
+*Add your Creds.json to Session file
+* Create a new app at [Heroku](https://id.heroku.com/login)
+* Add Build packs
+* Connect your heroku with your github
+* Locate Devil_Cat-V2.0
+* Now deploy.
+* Start the Worker
+* Enjoy the Bot.
+  
+### 4. <a 
+#### DEPLOY TO RENDER
+
+ ★ Register To Render 
+    <br>
+<a href='https://dashboard.render.com/register' target="_blank"><img alt='Render' src='https://img.shields.io/badge/CREATE-h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+★ Now Deploy
+    <br>
+<a href='https://dashboard.render.com/select-repo?type=web' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/DEPLOY -h?color=black&style=for-the-badge&logo=render' width="96.35" height="28"/></a></p>
+
+</br>
+
+#### COPY THESE COMMANDS AND PASTE IF YOU TRYING TO DEPLOY [Devil_Cat-V2.0](https://github.com/Anime-King01/Devil_Cat-V2.0) ON ANY TERMINAL
+```
+sudo apt -y update && sudo apt -y upgrade
+```
+```
+sudo apt -y install git ffmpeg curl
+```
+```
+curl -fsSL https://deb.nodesource.com/setup_20.x -o nodesource_setup.sh
+```
+```
+sudo -E bash nodesource_setup.sh
+```
+```
+sudo apt-get install -y nodejs
+```
+```
+sudo npm install -g yarn
+```
+```
+sudo yarn global add pm2
+```
+```
+git clone https://github.com/type-your-username-here/Devil_Cat-V2.0
+```
+```
+cd Devil_Cat-V2.0
+```
+```
+yarn install
+```
+```
+npm start
+```
+
 ### REPORT ISSUES
 
 if you're having any issues message me on
@@ -89,6 +157,8 @@ If the bot goes offline
 Just type cd and the bot name 
 Then type npm start
 It will come online
+
+
 
 `Please Devil Cat V2.0 BOT is for scammers only. Don't use it to harm innocent people`
 
@@ -112,6 +182,40 @@ The WhatsApp Bot Devil Cat v2 MD is released under the [MIT License](https://ope
 
 Enjoy the diverse features of the WhatsApp Bot Devil Cat v2 Md to enhance your conversations and make your WhatsApp experience more interesting!
 
-## Developers:
+## 🎯 Authors 🎯
+  <div align="center">
+  
+| [![LORD NO NAME](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+|----|
+| [  LORD NO NAME ](https://github.com/Anime-King01) |
+|  Developer |
 
--Lord No Name
+  </div>
+  <div align="center">
+  
+| [![BADBOI](https://github.com/BADBOI-v1.png?size=150)](https://github.com/BADBOI-v1) |
+|----|
+| [  BADBOI ](https://github.com/BADBOI-v1) |
+|  Co-Developer |
+
+  </div>
+   
+  </br> 
+
+<h2 align="center">  Reminder
+</h2>
+   
+- This bot is not made by `WhatsApp Inc.` So misusing the bot might `ban` your `WhatsApp account!`(Though your WhatsApp account can be unbanned only once.)
+- I am not responsible for banning your account.
+- Use at your own risk by keeping this warning in mind.
+ 
+  
+  
+   ## `Special Thanks To`
+
+* [`📕BADBOI..!!`](https://github.com/BADBOI-v1)
+
+ 
+  
+  
+  
