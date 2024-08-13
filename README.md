@@ -6,7 +6,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THANKS FOR CHOOSING ;Devil_Cat-V2.0;WHATSAPP+BUG+BOT;CREATED+BY+LORD+NO+NAME+MD;RELEASED+11.07.24" alt="Typing SVG" /></a>
   </p>
 
-<img  https://telegra.ph/file/b94ebc14cfb758319e9f0.jpg />
+<img src= "https://telegra.ph/file/b94ebc14cfb758319e9f0.jpg" />
 </p>
 
 Devil Cat V2.0 BOT is a bug bot designed to enhance the functionality and preferences of a user's whatsApp. As well as put an end to the era of scammers. Use reasonably
