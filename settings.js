@@ -16,8 +16,8 @@ global.ytname = "YT: No-Name-Tech"
 global.socialm = "GitHub: Anime-King01"
 global.location = "Africa/Lagos"
 
-global.ownernumber = '2348133286181'  //creator number
-global.ownername = 'Lord No Name' //owner name
+global.ownernumber = '2349033247746'  //creator number
+global.ownername = 'OPJ BUZZ' //owner name
 global.botname = 'Devil_Cat ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
